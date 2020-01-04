@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60067" started-at="2019-12-31T22:26:18Z" finished-at="2019-12-31T22:27:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60067" started-at="2019-12-31T22:26:18Z" finished-at="2019-12-31T22:27:18Z">
+      <class name="XeroautomationSeptBatch_2019.XeroAutomation">
+        <test-method status="PASS" signature="extentReportInit()[pri:0, instance:XeroautomationSeptBatch_2019.XeroAutomation@3ffc5af1]" name="extentReportInit" is-config="true" duration-ms="175" started-at="2019-12-31T22:26:18Z" finished-at="2019-12-31T22:26:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- extentReportInit -->
+        <test-method status="PASS" signature="TestID08_A()[pri:0, instance:XeroautomationSeptBatch_2019.XeroAutomation@3ffc5af1]" name="TestID08_A" duration-ms="52973" started-at="2019-12-31T22:26:18Z" finished-at="2019-12-31T22:27:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestID08_A -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:XeroautomationSeptBatch_2019.XeroAutomation@3ffc5af1]" name="closeBrowser" is-config="true" duration-ms="3390" started-at="2019-12-31T22:27:11Z" finished-at="2019-12-31T22:27:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="tearDownDriver()[pri:0, instance:XeroautomationSeptBatch_2019.XeroAutomation@3ffc5af1]" name="tearDownDriver" is-config="true" duration-ms="3499" started-at="2019-12-31T22:27:15Z" finished-at="2019-12-31T22:27:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownDriver -->
+      </class> <!-- XeroautomationSeptBatch_2019.XeroAutomation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
