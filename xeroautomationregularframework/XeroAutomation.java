@@ -44,7 +44,7 @@ public class XeroAutomation {
 	static ExtentTest logger;
 	
 	/*
-	 * Comments
+	 * Comments Test
 	 */
 	
 	@BeforeTest
