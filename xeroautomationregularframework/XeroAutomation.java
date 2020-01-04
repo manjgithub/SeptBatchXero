@@ -43,7 +43,9 @@ public class XeroAutomation {
 	static ExtentReports reports;
 	static ExtentTest logger;
 	
-	
+	/*
+	 * Comments
+	 */
 	
 	@BeforeTest
 	public static void extentReportInit() throws IOException{
